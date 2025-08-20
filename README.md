@@ -24,13 +24,13 @@ Hush-Hush-Recruiter is an automated recruitment tool that streamlines the entire
 
 ## Installation
 
-1. **Clone the repository:**
-    ```bash
+## Installation
 
-git clone https://github.com/Pavankumarmanagoli/Hush-Hush-Recruiter.git
-cd Hush-Hush-Recruiter
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Pavankumarmanagoli/Hush-Hush-Recruiter.git
+   cd Hush-Hush-Recruiter
 
-    ```
 2. **Navigate to the project directory:**
     ```bash
     Hush-Hush-Recruiter
